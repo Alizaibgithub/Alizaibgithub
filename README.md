@@ -27,21 +27,18 @@ A MERN Stack Developer with 1+ year of experience building full-stack web applic
 
 ### 🛠️ Tech Stack & Tools
 
-**Frontend**
-
-<p>
+<p align="center"><b>Frontend</b></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,mui&perline=8" />
 </p>
 
-**Backend & Database**
-
-<p>
+<p align="center"><b>Backend & Database</b></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=8" />
 </p>
 
-**Tools & Deployment**
-
-<p>
+<p align="center"><b>Tools & Deployment</b></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,vercel,netlify&perline=8" />
 </p>
 
