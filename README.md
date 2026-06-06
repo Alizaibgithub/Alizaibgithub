@@ -1,38 +1,41 @@
-<h1 align="center">Hi, I'm Ali Zaib 👋</h1>
+<h1 align="center">Ali Zaib </h1>
 
 <p align="center">
-  <b>MERN Stack Developer</b> · Building modern, responsive web apps
+  Helping Startups & Businesses Build Scalable Web Applications | <b>MERN Stack Developer</b>
 </p>
 
 <p align="center">
-  <a href="mailto:alizaibsedev@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/alizaib-se/">💼 LinkedIn</a> •
-  <a href="https://github.com/Alizaibgithub">🐙 GitHub</a>
+  <a href="https://www.linkedin.com/in/alizaib-se/">LinkedIn</a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-- 🔭 MERN Stack Developer with **1+ year** of professional experience
-- 🏢 Previously at **VisionBird Technologies** (PSEB Apprentice) & **Fast Solutions**
-- 🎓 BS Software Engineering — **University of Gujrat** (CGPA: 3.27/4.0)
-- 🚀 I love building full-stack apps with clean UI and scalable backends
+A MERN Stack Developer with 1+ year of experience building full-stack web applications — focused on clean architecture, reusable components, and seamless API integration.
 
 ---
 
-### 🛠️ Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+### 🛠️ Tech Stack & Tools
+
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" />
+</p>
+
+**Backend & Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=8" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,postman&perline=8" />
+</p>
 
 ---
 
