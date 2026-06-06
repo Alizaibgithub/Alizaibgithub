@@ -5,7 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alizaib-se/">LinkedIn</a>
+  <a href="mailto:alizaibsedev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/alizaib-se/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://autoprintify.com/">
+    <img src="https://img.shields.io/badge/AutoPrintify-7b5fc4?style=for-the-badge&logo=convertio&logoColor=fdbc80" />
+  </a>
 </p>
 
 ---
