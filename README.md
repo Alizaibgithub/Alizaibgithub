@@ -10,7 +10,7 @@
 
 ---
 
-### About Me
+### 🎯 About Me
 
 A MERN Stack Developer with 1+ year of experience building full-stack web applications — focused on clean architecture, reusable components, and seamless API integration.
 
@@ -43,16 +43,7 @@ A MERN Stack Developer with 1+ year of experience building full-stack web applic
 |---|---|---|
 | [**AutoPrintify**](https://autoprintify.com/) | Online print management platform deployed at UoG — payments, order tracking & admin dashboard | React, Node, Express, MongoDB |
 | **CountdownEdge** | Shopify app with real-time countdown timers & merchant customization via Theme Editor | Remix, React, Polaris |
-| [**EarBuds Store**](https://earbuds-store.netlify.app/) | Full-stack ecommerce store with product listings, cart & responsive UI | React, Node, Express, MongoDB |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alizaibgithub&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alizaibgithub&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+| [**EarBuds Store**](https://earbuds-store.netlify.app/) | Ecommerce store with product listings, cart & responsive UI | HTML, CSS, JS |
 
 ---
 
