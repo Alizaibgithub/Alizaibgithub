@@ -20,7 +20,7 @@
 
 ### 🎯 About Me
 
-A MERN Stack Developer with 1+ year of experience building full-stack web applications — focused on clean architecture, reusable components, and seamless API integration.
+Frontend Developer with 1+ year of experience building responsive web applications using React.js and modern UI libraries — focused on reusable components, clean UI design, and API integration.
 
 ---
 
