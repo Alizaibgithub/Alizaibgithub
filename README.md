@@ -1,7 +1,7 @@
 <h1 align="center">Ali Zaib </h1>
 
 <p align="center">
-  Helping Startups & Businesses Build Scalable Web Applications | <b>MERN Stack Developer</b>
+  Helping Startups & Businesses Build Scalable Web Applications | <b>Frontend Developer Developer</b>
 </p>
 
 <p align="center">
