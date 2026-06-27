@@ -1,7 +1,7 @@
 <h1 align="center">Ali Zaib </h1>
 
 <p align="center">
-  Helping Startups & Businesses Build Scalable Web Applications | <b>Frontend Developer</b>
+  Helping Startups & Businesses Build Scalable Web Applications | <b>MERN Stack Developer</b>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ### 🎯 About Me
 
-Frontend Developer with 1+ year of experience building responsive web applications using React.js and modern UI libraries — focused on reusable components, clean UI design, and API integration.
+MERN Stack Developer with 1+ year of experience building full-stack web applications using React.js, Node.js, Express.js, and MongoDB. Skilled in component-based UI development, REST API integration, and delivering responsive, production-ready applications. Focused on writing clean, maintainable code and building scalable full-stack solutions.
 
 ---
 
